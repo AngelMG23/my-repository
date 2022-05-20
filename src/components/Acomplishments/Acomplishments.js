@@ -26,7 +26,7 @@ const data = [
 
 const Acomplishments = () => (
   <Section>
-    <SectionTitle>Personal Achievents</SectionTitle>
+    <SectionTitle>Personal Achievements</SectionTitle>
     <Boxes>
       {data.map((card, index) => (
         <Box key={index}>
