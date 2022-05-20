@@ -1,5 +1,6 @@
 import React from "react";
-import { AiFillGithub, AiFillLinkedin, AiFillTwitter} from "react-icons/ai";
+import { AiFillGithub, AiFillLinkedin} from "react-icons/ai";
+import { AiFillTwitter} from "react-icons"
 
 import { SocialIcons } from "../Header/HeaderStyles";
 import {
