@@ -40,7 +40,7 @@ function Hero() {
         <Button
           onClick={() =>
             (window.location =
-              "https://drive.google.com/uc?export=download&id=17tKOhx1MYfXvIFGFKZvj5f8Gnuw1IuCi")
+              "https://drive.google.com/file/d/1_ZYGjq4KxMbnSWGVCwjdIUMfIZc6Ce4t/view?usp=sharing")
           }
         >
           <td>My CV</td>
