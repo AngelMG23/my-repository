@@ -3,9 +3,9 @@ import React from "react";
 import {
   AiFillGithub,
   AiFillLinkedin,
-  AiFillTwitter,
   AiOutlineContacts,
 } from "react-icons/ai";
+import {AiFillTwitter} from "react-icons"
 import { DiMaterializecss } from "react-icons/di";
 
 import {
