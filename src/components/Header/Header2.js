@@ -4,6 +4,7 @@ import {
   AiFillGithub,
   AiFillInstagram,
   AiFillLinkedin,
+  AiFillTwitterSquare, 
   AiOutlineContacts,
 } from "react-icons/ai";
 import { DiMaterializecss } from "react-icons/di";
@@ -52,11 +53,14 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/NivekDevv">
+    <SocialIcons href="https://github.com/AngelMG23">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="www.linkedin.com/in/kevintoussaint3">
+      <SocialIcons href="https://www.linkedin.com/in/langelmartinezg23/">
         <AiFillLinkedin size="3rem" />
+      </SocialIcons>
+      <SocialIcons href="https://twitter.com/Angel10_Ozil">
+        <AiFillTwitterSquare size="3rem" />
       </SocialIcons>
     </Div3>
   </Container>
