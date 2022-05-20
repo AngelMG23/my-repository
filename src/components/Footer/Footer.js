@@ -1,6 +1,5 @@
 import React from "react";
-import { AiFillGithub, AiFillLinkedin} from "react-icons/ai";
-import { AiFillTwitter} from "react-icons"
+import { AiFillGithub, AiFillLinkedin, AiFillTwitterSquare} from "react-icons/ai";
 
 import { SocialIcons } from "../Header/HeaderStyles";
 import {
@@ -37,7 +36,7 @@ const Footer = () => {
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
         <SocialIcons href="https://twitter.com/Angel10_Ozil">
-          <AiFillTwitter size="3rem" />
+          <AiFillTwitterSquare size="3rem" />
         </SocialIcons>
       </SocialIconsContainer>
     </FooterWrapper>
