@@ -3,9 +3,10 @@ import React from "react";
 import {
   AiFillGithub,
   AiFillLinkedin,
+  AiFillTwitterSquare, 
   AiOutlineContacts,
 } from "react-icons/ai";
-import {AiFillTwitter} from "react-icons"
+
 import { DiMaterializecss } from "react-icons/di";
 
 import {
@@ -59,7 +60,7 @@ const Header = () => (
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
       <SocialIcons href="https://twitter.com/Angel10_Ozil">
-        <AiFillTwitter size="3rem" />
+        <AiFillTwitterSquare size="3rem" />
       </SocialIcons>
     </Div3>
   </Container>
