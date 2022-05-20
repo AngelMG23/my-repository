@@ -17,7 +17,7 @@ function Hero() {
       typeSpeed: 120,
       backSpeed: 30,
       loop: true,
-      strings: ["Front-End", "Back-End", "FullStack"],
+      strings: ["Mechanical design", "Electrical/Electronics", "Automation", "Manufacturing Process"],
     });
   }, []);
   return (
@@ -26,14 +26,15 @@ function Hero() {
         <SectionTitle main center>
           Hi There, I'm
           <br />
-          <Span>Kevin Toussaint</Span> <br />
-          Web Developer
+          <Span>Ángel Martínez</Span> <br />
+          Mechatronic engineer
           <Span2 style={{ marginLeft: "2rem" }} ref={textRef}></Span2>
         </SectionTitle>
         <SectionText2>
-          Are you looking for a fresh junior web developer? Highly motivated and
-          fast learner? I'm here for you! You can download my CV/Resume by
-          clicking on the button below.
+          Are you looking for a person that with effort, discipline, and perseverance
+          can become the hard work into smart work? I'm here for you! Highly motivated
+          and willing to start my professional career to make a better future for a the best world
+          You can download my CV/Resume by clicking on the button below.
           <br />
         </SectionText2>
         <Button
