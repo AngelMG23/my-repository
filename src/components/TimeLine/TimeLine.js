@@ -71,14 +71,14 @@ const Timeline = () => {
         graduated in 2021. Since 5 months ago I've learned to use and understand
         the Unigraphics NX software as well as improving my programming skills, 
         mainly in Python by taking courses. Also in the last month I finished a 
-        Introduction to Lean Six Sigma course by ITESM through Coursera. In my 
-        academic life, the main projects I realized were: 4-cylinder engine designed 
-        in SolidWorks by taking the dimensions from the real engine, and my thesis 
-        work, it was a SLAM system implemented on a mobile robot for the exploration
-        of disaster-affected areas, this work was made possible thanks to my partnes.
-        Finally, I have been practicing coding, CAD/CAE (for mechanical design) and 
-        improving my english skills, mainly, while some company hires me. I don't have
-        relevant experince but my motivation is at a 100%.
+        Introduction to Lean Six Sigma course. In my academic life, the main projects 
+        I realized were: 4-cylinder engine designed in SolidWorks by taking the 
+        dimensions from the real engine, and my thesis work, it was a SLAM system 
+        implemented on a mobile robot for the exploration of disaster-affected areas, 
+        this work was made possible thanks to my partnes. Finally, I have been 
+        practicing coding, CAD/CAE (for mechanical design) by designing personal
+        projects and improving my english skills, mainly, while some company hires me. 
+        I don't have relevant experince but my motivation is at a 100%.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
