@@ -1,5 +1,6 @@
 import React from "react";
 import { DiFirebase, DiReact, DiZend, DiNodejsSmall } from "react-icons/di";
+import { SiDassaultsystemes } from "react-icons/si";
 import {
   Section,
   SectionDivider,
@@ -33,7 +34,7 @@ const Technologies = () => (
     </SectionText>
     <List>
       <ListItem>
-        <DiReact
+        <SiDassaultsystemes
           style={{
             marginLeft: "14%",
           }}
