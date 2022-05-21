@@ -1,6 +1,7 @@
 import React from "react";
 import { DiFirebase, DiReact, DiZend, DiNodejsSmall } from "react-icons/di";
 import { SiDassaultsystemes, SiSiemens, SiAutodesk } from "react-icons/si";
+import { FcElectronics } from "react-icons/fc";
 import {
   Section,
   SectionDivider,
@@ -70,7 +71,7 @@ const Technologies = () => (
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Experience with
             </span>{" "}
-            <br /> <br /> Unigraphics Nx <br /> STEP7 MicroWIN <br /> S7200 <br /> PCSimu
+            <br /> <br /> Unigraphics Nx <br /> STEP7 MicroWIN <br /> PLC S7200 <br /> PCSimu
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -88,6 +89,23 @@ const Technologies = () => (
               Experience with
             </span>{" "}
             <br /> <br /> AutoCAD <br /> Inventor <br /> FeatureCAM
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <FcElectronics
+          style={{
+            marginLeft: "14%",
+          }}
+          size="4rem"
+        />
+        <ListContainer>
+          <ListTitle>Electronics/Electrical</ListTitle>
+          <ListParagraph>
+            <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
+              Experience with
+            </span>{" "}
+            <br /> <br /> PCB's (Proteus/Multisim) <br /> Digital circuits <br /> Arduino/Raspberry/Cortex-M4/FPGA
           </ListParagraph>
         </ListContainer>
       </ListItem>
