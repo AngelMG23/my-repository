@@ -62,12 +62,12 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 1996, text: "Started my life" },
+  { year: 1997, text: "Started my life" },
   {
-    year: 2005.2014,
-    text: "Played videos games and started being passionated by digital technologies",
+    year: 2009,
+    text: "Started to know the technology",
   },
-  { year: 2020, text: "Production of music videos for artists" },
-  { year: 2021, text: "Started learning web development" },
+  { year: 2012, text: "First mechatronics schoolar projects" },
+  { year: 2016.2021, text: "Mechatronics became in my passion" },
   { year: 2022, text: "Looking for professional experience" },
 ];
