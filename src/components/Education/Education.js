@@ -21,9 +21,9 @@ import {
 import Link from "next/link";
 
 const Education = () => (
-  <Section id="tech">
+  <Section id="edu">
     <Btn3>
-      <Link href="#tech">
+      <Link href="#edu">
         <CgChevronDoubleDownO />
       </Link>
     </Btn3>
