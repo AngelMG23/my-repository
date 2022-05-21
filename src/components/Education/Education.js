@@ -17,10 +17,10 @@ import {
   ListItem,
   ListParagraph,
   ListTitle,
-} from "./TechnologiesStyles";
+} from "./EducationStyles";
 import Link from "next/link";
 
-const Technologies = () => (
+const Education = () => (
   <Section id="tech">
     <Btn3>
       <Link href="#tech">
@@ -28,7 +28,7 @@ const Technologies = () => (
       </Link>
     </Btn3>
     <SectionDivider style={{ marginBottom: "3%" }} />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Education</SectionTitle>
     <SectionText>
       My strongest skill is the mechanical design and software like SolidWorks, Unigraphics NX, Inventor for CAD/CAM/CAE,
       I really love it. However in topics like automation process I consider myself able to do it and be competitive. 
@@ -151,4 +151,4 @@ const Technologies = () => (
   </Section>
 );
 
-export default Technologies;
+export default Education;
