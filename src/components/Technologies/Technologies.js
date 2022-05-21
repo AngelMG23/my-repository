@@ -64,7 +64,7 @@ const Technologies = () => (
           style={{
             marginLeft: "14%",
           }}
-          size="6rem"
+          size="4rem"
         />
         <ListContainer>
           <ListTitle>CAD/PLC</ListTitle>
@@ -84,7 +84,7 @@ const Technologies = () => (
           size="4rem"
         />
         <ListContainer>
-          <ListTitle>CAD</ListTitle>
+          <ListTitle>CAD/CAM</ListTitle>
           <ListParagraph>
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Experience with
