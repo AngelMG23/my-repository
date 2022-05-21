@@ -38,7 +38,7 @@ const Technologies = () => (
           style={{
             marginLeft: "14%",
           }}
-          size="3rem"
+          size="4rem"
         />
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
