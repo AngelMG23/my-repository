@@ -1,7 +1,8 @@
 import React from "react";
 import { DiFirebase, DiReact, DiZend, DiNodejsSmall } from "react-icons/di";
 import { SiDassaultsystemes, SiSiemens, SiAutodesk } from "react-icons/si";
-import { FcElectronics } from "react-icons/fc";
+import { FcElectronics, FcProcess } from "react-icons/fc";
+import { BsCodeSlash } from "react-icons/bs";
 import {
   Section,
   SectionDivider,
@@ -106,6 +107,40 @@ const Technologies = () => (
               Experience with
             </span>{" "}
             <br /> <br /> PCB's (Proteus/Multisim) <br /> Digital circuits <br /> Arduino/Raspberry/Cortex-M4/FPGA
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <FcProcess
+          style={{
+            marginLeft: "14%",
+          }}
+          size="4rem"
+        />
+        <ListContainer>
+          <ListTitle>Process</ListTitle>
+          <ListParagraph>
+            <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
+              Knowleadge in
+            </span>{" "}
+            <br /> <br /> Manufacturing process <br /> Lean Six Sigma
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <BsCodeSlash
+          style={{
+            marginLeft: "14%",
+          }}
+          size="4rem"
+        />
+        <ListContainer>
+          <ListTitle>Programming</ListTitle>
+          <ListParagraph>
+            <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
+              Experience with
+            </span>{" "}
+            <br /> <br /> Python <br /> C/C++ <br /> Matlab  <br /> LabView <br /> ROS (a bit)
           </ListParagraph>
         </ListContainer>
       </ListItem>
