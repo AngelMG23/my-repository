@@ -37,7 +37,7 @@ const Header = () => (
     </Div1>
     <Div2>
     <li>
-        <Link href="/projects">
+        <Link href="/edu">
           <NavLink>Education</NavLink>
         </Link>
       </li>
