@@ -1,6 +1,6 @@
 import React from "react";
 import { DiFirebase, DiReact, DiZend, DiNodejsSmall } from "react-icons/di";
-import { SiDassaultsystemes } from "react-icons/si";
+import { SiDassaultsystemes, SiSiemens } from "react-icons/si";
 import {
   Section,
   SectionDivider,
@@ -41,7 +41,7 @@ const Technologies = () => (
           size="4rem"
         />
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>CAD/CAE</ListTitle>
           <ListParagraph>
             <span
               style={{
@@ -52,17 +52,17 @@ const Technologies = () => (
               Experience with
             </span>{" "}
             <br />
-            <br /> React.js <br /> HTML 5 <br /> CSS <br /> JavaScript <br />{" "}
+            <br /> Solidworks <br /> 3D Modeling <br /> Finite Element Analysis <br /> Simulation <br /> SimMechanics <br />{" "}
             Redux
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiNodejsSmall
+        <SiSiemens
           style={{
             marginLeft: "14%",
           }}
-          size="3rem"
+          size="4rem"
         />
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
