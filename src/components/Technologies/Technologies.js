@@ -30,9 +30,11 @@ const Technologies = () => (
     <SectionDivider style={{ marginBottom: "3%" }} />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      My main stack is React.JS, I love it. But I am also proficient in and work
-      with HTML/CSS. As for the back-end I use Node.JS and Express.
-      Additionally, I am competent in API and NoSQL database (MongoDB).
+      My strongest skill is the mechanical design and software like SolidWorks, Unigraphics NX, Inventor for CAD/CAM/CAE,
+      I really love it. However in topics like automation process I consider myself able to do it and be competitive. 
+      Additionally, in topics like programming I've programmed in languages like Python, C/C++, Matlab, LabView and I know 
+      a little of ROS and Java but I don't consider myself a strong competitive in this field. Finally, also I've worked with 
+      Arduino, Raspberry, Cortex-M4 (Nucleo 64), FPGA for mechatronics systems.
     </SectionText>
     <List>
       <ListItem>
