@@ -1,6 +1,6 @@
 import React from "react";
 import { DiFirebase, DiReact, DiZend, DiNodejsSmall } from "react-icons/di";
-import { SiDassaultsystemes, SiSiemens } from "react-icons/si";
+import { SiDassaultsystemes, SiSiemens, SiAutodesk } from "react-icons/si";
 import {
   Section,
   SectionDivider,
@@ -53,7 +53,7 @@ const Technologies = () => (
             </span>{" "}
             <br />
             <br /> Solidworks <br /> 3D Modeling <br /> Finite Element Analysis <br /> Simulation <br /> SimMechanics <br />{" "}
-            Redux
+            Sheet metal
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -62,32 +62,32 @@ const Technologies = () => (
           style={{
             marginLeft: "14%",
           }}
-          size="4rem"
+          size="6rem"
         />
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>CAD/PLC</ListTitle>
           <ListParagraph>
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Experience with
             </span>{" "}
-            <br /> <br /> Node.js <br /> Express <br /> API
+            <br /> <br /> Unigraphics Nx <br /> STEP7 MicroWIN <br /> S7200 <br /> PCSimu
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase
+        <SiAutodesk
           style={{
             marginLeft: "14%",
           }}
-          size="3rem"
+          size="4rem"
         />
         <ListContainer>
-          <ListTitle>DataBase</ListTitle>
+          <ListTitle>CAD</ListTitle>
           <ListParagraph>
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Experience with
             </span>{" "}
-            <br /> <br /> MongoDB
+            <br /> <br /> AutoCAD <br /> Inventor <br /> FeatureCAM
           </ListParagraph>
         </ListContainer>
       </ListItem>
