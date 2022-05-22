@@ -24,7 +24,7 @@ function Hero() {
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Hi There, I'm
+          Hello There, I'm
           <br />
           <Span>Ángel Martínez</Span> <br />
           Mechatronic engineer
