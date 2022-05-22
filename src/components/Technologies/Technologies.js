@@ -27,7 +27,7 @@ const Technologies = () => (
         <CgChevronDoubleDownO />
       </Link>
     </Btn3>
-    <SectionDivider style={{ marginBottom: "3%" }} />
+    <SectionDivider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       My strongest skill is the mechanical design and software like SolidWorks, Unigraphics NX, Inventor for CAD/CAM/CAE,
