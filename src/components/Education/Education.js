@@ -45,7 +45,7 @@ const Education = () => (
           size="4rem"
         />
         <ListContainer>
-          <ListTitle>Electrical</ListTitle>
+          <ListTitle>Mechatronics Technician</ListTitle>
           <ListParagraph>
             <span
               style={{
@@ -53,11 +53,10 @@ const Education = () => (
                 fontStyle: "italic",
               }}
             >
-              Experience with
+              Knowleadge
             </span>{" "}
             <br />
-            <br /> Solidworks <br /> 3D Modeling <br /> Finite Element Analysis <br /> Simulation <br /> SimMechanics <br />{" "}
-            Sheet metal
+            <br /> Technical drawings, basic electronics, PLC automation <br /> Pneumatics and Hydraulics 
           </ListParagraph>
         </ListContainer>
       </ListItem>
