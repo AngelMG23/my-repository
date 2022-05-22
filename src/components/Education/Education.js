@@ -4,6 +4,7 @@ import { SiDassaultsystemes, SiSiemens, SiAutodesk } from "react-icons/si";
 import { FcElectronics, FcProcess } from "react-icons/fc";
 import { BsCodeSlash } from "react-icons/bs";
 import { FaUniversity } from "react-icons/fa";
+import { MdOutlineElectrical } from "react-icons/md";
 import {
   Section,
   SectionDivider,
@@ -31,18 +32,20 @@ const Education = () => (
     <SectionDivider style={{ marginBottom: "3%" }} />
     <SectionTitle>Education</SectionTitle>
     <SectionText>
-      My technical education started at 2009 at the elementary school
+      My technical education started at 2009 at the elementary school when I studied as Electrical Technical Assistant, 
+      then I studied at high school with diploma the Mechatronics Technical Career. The latest studies so far was the
+      Mechatronics engineering Degree at UPITTA-IPN. Aditionally, I studied 1 year the Industrial Robotics Degree at ESIME-IPN
     </SectionText>
     <List>
       <ListItem>
-        <FaUniversity
+        <MdOutlineElectrical
           style={{
             marginLeft: "14%",
           }}
           size="4rem"
         />
         <ListContainer>
-          <ListTitle>CAD/CAE</ListTitle>
+          <ListTitle>Electrical</ListTitle>
           <ListParagraph>
             <span
               style={{
