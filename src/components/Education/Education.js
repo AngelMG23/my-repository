@@ -90,7 +90,7 @@ const Education = () => (
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Tech Knowleadge
             </span>{" "}
-            <br /> <br /> Mechanical Design, Automation/Manufacturing Process, Control, Programming/IT, Robotics
+            <br /> <br /> Mechanical Design, Automation/Manufacturing Process, Control, Programming/IT, Electrical/Electronics Circuits, Robotics
           </ListParagraph>
         </ListContainer>
       </ListItem>
