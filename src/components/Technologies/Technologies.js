@@ -103,7 +103,7 @@ const Technologies = () => (
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Experience with
             </span>{" "}
-            <br /> <br /> PCB's (Proteus/Multisim) <br /> Digital circuits <br /> Arduino/Raspberry/Cortex-M4/FPGA
+            <br /> <br /> PCB's (Proteus/Multisim) <br /> Digital circuits <br /> Arduino/Raspberry/PIC's <br /> Cortex M4/FPGA
           </ListParagraph>
         </ListContainer>
       </ListItem>
