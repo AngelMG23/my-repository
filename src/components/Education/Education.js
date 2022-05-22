@@ -49,7 +49,7 @@ const Education = () => (
           <ListParagraph>
             <span style={{ fontWeight: "bolder", fontStyle: "normal", }}>
               CBT Lic. Mario Colín Sánchez <br /> 2012 - 2015
-            </span>{" "}
+            </span>{" "} <br />
             <span style={{ fontWeight: "bolder", fontStyle: "italic", }}>
               Tech Knowleadge
             </span>{" "}
