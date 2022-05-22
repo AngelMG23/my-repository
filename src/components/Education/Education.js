@@ -68,12 +68,12 @@ const Education = () => (
           size="4rem"
         />
         <ListContainer>
-          <ListTitle>CAD/PLC</ListTitle>
+          <ListTitle>Industrial Robotics Engineering</ListTitle>
           <ListParagraph>
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
-              Experience with
+              Tech Knowleadge
             </span>{" "}
-            <br /> <br /> Unigraphics Nx <br /> STEP7 MicroWIN <br /> PLC S7200 <br /> PCSimu
+            <br /> <br /> AutoCAD, C/C++
           </ListParagraph>
         </ListContainer>
       </ListItem>

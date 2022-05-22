@@ -22,7 +22,7 @@ import Link from "next/link";
 
 const Technologies = () => (
   <Section id="tech">
-    <SectionDivider />
+    
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       My strongest skill is the mechanical design and software like SolidWorks, Unigraphics NX, Inventor for CAD/CAM/CAE,
