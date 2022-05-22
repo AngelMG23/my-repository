@@ -30,11 +30,7 @@ const Education = () => (
     <SectionDivider style={{ marginBottom: "3%" }} />
     <SectionTitle>Education</SectionTitle>
     <SectionText>
-      My strongest skill is the mechanical design and software like SolidWorks, Unigraphics NX, Inventor for CAD/CAM/CAE,
-      I really love it. However in topics like automation process I consider myself able to do it and be competitive. 
-      Additionally, in topics like programming I've programmed in languages like Python, C/C++, Matlab, LabView and I know 
-      a little of ROS and Java but I don't consider myself a strong competitive in this field. Finally, also I've worked with 
-      Arduino, Raspberry, Cortex-M4 (Nucleo 64), FPGA for mechatronics systems.
+      My technical education started at 2009 at the elementary school
     </SectionText>
     <List>
       <ListItem>
