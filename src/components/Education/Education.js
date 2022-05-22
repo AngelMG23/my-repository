@@ -47,12 +47,13 @@ const Education = () => (
         <ListContainer>
           <ListTitle>Mechatronics Technician</ListTitle>
           <ListParagraph>
-            <span
-              style={{
-                fontWeight: "bolder",
-                fontStyle: "italic",
-              }}
-            >
+            <span style={{ fontWeight: "bolder", fontStyle: "normal", }}>
+              CBT Lic. Mario Colín Sánchez
+            </span>{" "}
+            <span style={{ fontWeight: "bolder", fontStyle: "normal", }}>
+              2012 - 2015
+            </span>{" "}
+            <span style={{ fontWeight: "bolder", fontStyle: "italic", }}>
               Tech Knowleadge
             </span>{" "}
             <br />

@@ -17,7 +17,7 @@ function Hero() {
       typeSpeed: 120,
       backSpeed: 30,
       loop: true,
-      strings: ["Mechanical design", "Electrical/Electronics", "Automation", "Manufacturing Process"],
+      strings: ["Mechanical design", "Electrical & Electronics", "Automation", "Manufacturing Process"],
     });
   }, []);
   return (
