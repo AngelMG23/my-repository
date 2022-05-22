@@ -1,10 +1,10 @@
 import React from "react";
 import { DiFirebase, DiReact, DiZend, DiNodejsSmall } from "react-icons/di";
 import { SiDassaultsystemes, SiSiemens, SiAutodesk } from "react-icons/si";
-import { FcElectronics, FcProcess } from "react-icons/fc";
+import { FcElectronics, FcProcess, FcElectroDevices } from "react-icons/fc";
 import { BsCodeSlash } from "react-icons/bs";
 import { FaUniversity } from "react-icons/fa";
-import { MdElectricalServices } from "react-icons/md";
+
 import {
   Section,
   SectionDivider,
@@ -38,7 +38,7 @@ const Education = () => (
     </SectionText>
     <List>
       <ListItem>
-        <MdElectricalServices
+        <FcElectroDevices
           style={{
             marginLeft: "14%",
           }}
