@@ -68,6 +68,9 @@ const Education = () => (
         <ListContainer>
           <ListTitle>Industrial Robotics Engineering</ListTitle>
           <ListParagraph>
+          <span style={{ fontWeight: "bolder", fontStyle: "normal", }}>
+              ESIME - IPN <br /> 2015 - 2016
+            </span>{" "} <br />
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Tech Knowleadge
             </span>{" "}
@@ -85,6 +88,9 @@ const Education = () => (
         <ListContainer>
           <ListTitle>Mechatronics Engineering</ListTitle>
           <ListParagraph>
+            <span style={{ fontWeight: "bolder", fontStyle: "normal", }}>
+              UPIITA - IPN <br /> 2016 - 2021
+            </span>{" "} <br />
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Tech Knowleadge
             </span>{" "}
