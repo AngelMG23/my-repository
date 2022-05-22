@@ -3,7 +3,7 @@ import { DiFirebase, DiReact, DiZend, DiNodejsSmall } from "react-icons/di";
 import { SiDassaultsystemes, SiSiemens, SiAutodesk } from "react-icons/si";
 import { FcElectronics, FcProcess, FcElectroDevices } from "react-icons/fc";
 import { BsCodeSlash } from "react-icons/bs";
-import { GiMechanicalArm, GiTrackedRobot } from "react-icons/gi";
+import { GiMechanicalArm, GiTrackedRobot, GiGears } from "react-icons/gi";
 
 import {
   Section,
@@ -38,11 +38,11 @@ const Education = () => (
     </SectionText>
     <List>
       <ListItem>
-        <FcElectroDevices
+        <GiGears
           style={{
             marginLeft: "14%",
           }}
-          size="4rem"
+          size="6rem"
         />
         <ListContainer>
           <ListTitle>Mechatronics Technician</ListTitle>
@@ -65,7 +65,7 @@ const Education = () => (
           style={{
             marginLeft: "14%",
           }}
-          size="4rem"
+          size="6rem"
         />
         <ListContainer>
           <ListTitle>Industrial Robotics Engineering</ListTitle>
@@ -82,7 +82,7 @@ const Education = () => (
           style={{
             marginLeft: "14%",
           }}
-          size="4rem"
+          size="6rem"
         />
         <ListContainer>
           <ListTitle>Mechatronics Engineering</ListTitle>
