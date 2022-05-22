@@ -22,11 +22,6 @@ import Link from "next/link";
 
 const Technologies = () => (
   <Section id="tech">
-    <Btn3>
-      <Link href="#tech">
-        <CgChevronDoubleDownO />
-      </Link>
-    </Btn3>
     <SectionDivider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>

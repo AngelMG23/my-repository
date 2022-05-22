@@ -65,11 +65,6 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <Btn3>
-        <Link href="#about">
-          <CgChevronDoubleDownO />
-        </Link>
-      </Btn3>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         Hey, my name is ángel Martínez, I am a 25 years old mechatronic engineer
