@@ -4,7 +4,7 @@ import { SiDassaultsystemes, SiSiemens, SiAutodesk } from "react-icons/si";
 import { FcElectronics, FcProcess } from "react-icons/fc";
 import { BsCodeSlash } from "react-icons/bs";
 import { FaUniversity } from "react-icons/fa";
-import { MdOutlineElectrical } from "react-icons/md";
+import { MdOutlineElectricalServices } from "react-icons/md";
 import {
   Section,
   SectionDivider,
@@ -38,7 +38,7 @@ const Education = () => (
     </SectionText>
     <List>
       <ListItem>
-        <MdOutlineElectrical
+        <MdOutlineElectricalServices
           style={{
             marginLeft: "14%",
           }}
