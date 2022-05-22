@@ -3,7 +3,7 @@ import { DiFirebase, DiReact, DiZend, DiNodejsSmall } from "react-icons/di";
 import { SiDassaultsystemes, SiSiemens, SiAutodesk } from "react-icons/si";
 import { FcElectronics, FcProcess, FcElectroDevices } from "react-icons/fc";
 import { BsCodeSlash } from "react-icons/bs";
-import { FaUniversity } from "react-icons/fa";
+import { GiMechanicalArm, GiTrackedRobot } from "react-icons/gi";
 
 import {
   Section,
@@ -53,7 +53,7 @@ const Education = () => (
                 fontStyle: "italic",
               }}
             >
-              Knowleadge
+              Tech Knowleadge
             </span>{" "}
             <br />
             <br /> Technical drawings, basic electronics, PLC automation <br /> Pneumatics and Hydraulics 
@@ -61,7 +61,7 @@ const Education = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <SiSiemens
+        <GiMechanicalArm
           style={{
             marginLeft: "14%",
           }}
@@ -78,70 +78,19 @@ const Education = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <SiAutodesk
+        <GiTrackedRobot
           style={{
             marginLeft: "14%",
           }}
           size="4rem"
         />
         <ListContainer>
-          <ListTitle>CAD/CAM</ListTitle>
+          <ListTitle>Mechatronics Engineering</ListTitle>
           <ListParagraph>
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
-              Experience with
+              Tech Knowleadge
             </span>{" "}
-            <br /> <br /> AutoCAD <br /> Inventor <br /> FeatureCAM
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <FcElectronics
-          style={{
-            marginLeft: "14%",
-          }}
-          size="4rem"
-        />
-        <ListContainer>
-          <ListTitle>Electronics/Electrical</ListTitle>
-          <ListParagraph>
-            <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
-              Experience with
-            </span>{" "}
-            <br /> <br /> PCB's (Proteus/Multisim) <br /> Digital circuits <br /> Arduino/Raspberry/Cortex-M4/FPGA
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <FcProcess
-          style={{
-            marginLeft: "14%",
-          }}
-          size="4rem"
-        />
-        <ListContainer>
-          <ListTitle>Process</ListTitle>
-          <ListParagraph>
-            <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
-              Knowleadge in
-            </span>{" "}
-            <br /> <br /> Manufacturing process <br /> Lean Six Sigma
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <BsCodeSlash
-          style={{
-            marginLeft: "14%",
-          }}
-          size="4rem"
-        />
-        <ListContainer>
-          <ListTitle>Programming</ListTitle>
-          <ListParagraph>
-            <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
-              Experience with
-            </span>{" "}
-            <br /> <br /> Python <br /> C/C++ <br /> Matlab  <br /> LabView <br /> ROS (a bit)
+            <br /> <br /> Mechanical Design, Automation/Manufacturing Process, Control, Programming/IT, Robotics
           </ListParagraph>
         </ListContainer>
       </ListItem>
