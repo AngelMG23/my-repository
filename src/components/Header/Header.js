@@ -1,5 +1,6 @@
 import Link from "next/link";
 import React from "react";
+import icon from '/imgages/favicon.png'
 import {
   AiFillGithub,
   AiFillLinkedin,
@@ -32,7 +33,7 @@ const Header = () => (
             marginBottom: "16px",
           }}
         >
-          <MdFontDownloadOff size="3rem" /> <Span>Portfolio</Span>
+          <img src={icon} alt="" /> <Span>Portfolio</Span>
         </a>
       </Link>
     </Div1>
