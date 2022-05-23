@@ -33,7 +33,7 @@ const Header = () => (
             marginBottom: "16px",
           }}
         >
-          <img src={icon} alt="" /> <Span>Portfolio</Span>
+          <img src={icon} size="3rem" /> <Span>Portfolio</Span>
         </a>
       </Link>
     </Div1>
