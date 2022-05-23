@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import icon from '/imgages/favicon.png'
+import icon from '/images/favicon.png'
 import {
   AiFillGithub,
   AiFillLinkedin,
@@ -9,7 +9,7 @@ import {
 } from "react-icons/ai";
 
 import { DiMaterializecss } from "react-icons/di";
-import { MdFontDownloadOff } from "react-icons/md";
+
 
 import {
   Container,
