@@ -35,7 +35,7 @@ const Projects = () => (
             </TitleContent>
             <CardInfo>{description}</CardInfo>
             <div>
-              <TitleContent>Thesis</TitleContent>
+              <TitleContent>Mechatronics/Robotics</TitleContent>
               <TagList>
                 {tags.map((tag, i) => (
                   <Tag key={i}>{tag}</Tag>
