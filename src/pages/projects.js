@@ -24,6 +24,7 @@ import { projects } from "../constants/constants";
 
 import { projects1 } from "../constants/constants";
 import { projects2 } from "../constants/constants";
+import { projects3 } from "../constants/constants";
 
 import Header2 from "../components/Header/Header2";
 import { Container } from "../layout/LayoutStyles";
@@ -97,6 +98,31 @@ const Projects = () => (
               <CardInfo>{description}</CardInfo>
               <div>
                 <TitleContent>CAD</TitleContent>
+                <TagList>
+                  {tags.map((tag, i) => (
+                    <Tag key={i}>{tag}</Tag>
+                  ))}
+                </TagList>
+              </div>
+              <UtilityList>
+                <ExternalLinks href={source}>Models</ExternalLinks>
+                <ExternalLinks href={visit}>Video</ExternalLinks>
+              </UtilityList>
+            </BlogCard>
+          )
+        )}
+
+        {projects3.map(
+          ({ id, image, title, description, tags, source, visit }) => (
+            <BlogCard key={id}>
+              <Img src={image} />
+              <TitleContent>
+                <HeaderThree title>{title}</HeaderThree>
+                <Hr />
+              </TitleContent>
+              <CardInfo>{description}</CardInfo>
+              <div>
+                <TitleContent>CAD/Robotics</TitleContent>
                 <TagList>
                   {tags.map((tag, i) => (
                     <Tag key={i}>{tag}</Tag>
