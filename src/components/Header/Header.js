@@ -1,6 +1,5 @@
 import Link from "next/link";
 import React from "react";
-import icon from '/images/favicon.png'
 import {
   AiFillGithub,
   AiFillLinkedin,
@@ -9,6 +8,7 @@ import {
 } from "react-icons/ai";
 
 import { DiMaterializecss } from "react-icons/di";
+import { ImSpinner4 } from "react-icons/im";
 
 
 import {
@@ -33,7 +33,7 @@ const Header = () => (
             marginBottom: "16px",
           }}
         >
-          <img src={icon} size="3rem" /> <Span>Portfolio</Span>
+          <ImSpinner4 size="4rem" /> <Span>AngelMG23</Span>
         </a>
       </Link>
     </Div1>
