@@ -28,7 +28,7 @@ export const projects2 = [
   {
     title: "3-Axis cartesian system",
     description:
-      "This academic project was done in SolidWorks by a taking measurements in a sketchup model. Also was simulated the assambly process and a bit movement of the each axis.",
+      "This academic project was carried out in SolidWorks by a taking measurements in a sketchup model. Also, was simulated the assambly process and a bit movement of the each axis.",
     image: "/images/3axis.png",
     tags: ["SolidWorks", "Simulation", "Sketchup"],
     source: "https://drive.google.com/file/d/1Hlr_ZuCWjvSW4ooIIRrz-jlj2OjQAOTD/view?usp=sharing",
