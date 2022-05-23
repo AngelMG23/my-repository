@@ -8,6 +8,7 @@ import {
 } from "react-icons/ai";
 
 import { DiMaterializecss } from "react-icons/di";
+import { MdFontDownloadOff } from "react-icons/md";
 
 import {
   Container,
@@ -31,7 +32,7 @@ const Header = () => (
             marginBottom: "16px",
           }}
         >
-          <DiMaterializecss size="3rem" /> <Span>Portfolio</Span>
+          <MdFontDownloadOff size="3rem" /> <Span>Portfolio</Span>
         </a>
       </Link>
     </Div1>
