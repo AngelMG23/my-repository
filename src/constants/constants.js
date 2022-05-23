@@ -10,16 +10,6 @@ export const projects = [
     id: 0,
   },
   {
-    title: "This Portfolio",
-    description:
-      "This portfolio was built with React.JS and next. Many styled-components was created to be used everywhere on the app. This website is based on a open source template.",
-    image: "/images/portfolio.png",
-    tags: ["React", "Next", "Styled-Components"],
-    source: "https://angelmg23-upiita-ipn-myportfolio.vercel.app/",
-    visit: "https://github.com/AngelMG23/my-repository",
-    id: 3,
-  },
-  {
     title: "MorningNews",
     description:
       "MorningNews is a web app built with React, NodeJS+Express and NewsAPI. MorningNews allows you to check the news from different sources and in different languages. Just select an article and read it later.",
@@ -39,25 +29,18 @@ export const projects = [
     visit: "https://github.com/NivekDevv/LocaPic",
     id: 2,
   },
+];
+
+export const projects1 = [
   {
-    title: "MyMoviz",
+    title: "This Portfolio",
     description:
-      "MyMoviz is a full-stack application directly connected to an API to retrieve movies information. The application provides a list of the newly released movies and allows you to save them in a private wishlist. You can rate the movies, and see their average rating.",
-    image: "/images/mymoviz.png",
-    tags: ["React", "Reactstrap", "Axios"],
-    source: "https://my-moviez.herokuapp.com/",
-    visit: "https://github.com/NivekDevv/MyMoviz",
-    id: 4,
-  },
-  {
-    title: "More on my github",
-    description:
-      "You can find the rest of my projects directly on my github, feel free to take a look !",
-    image: "/images/github.png",
-    tags: ["GitHub"],
-    source: "https://github.com/NivekDevv",
-    visit: "https://github.com/NivekDevv",
-    id: 5,
+      "This portfolio was built with React.JS and next. Many styled-components was created to be used everywhere on the app. This website is based on a open source template.",
+    image: "/images/portfolio.png",
+    tags: ["React", "Next", "Styled-Components"],
+    source: "https://angelmg23-upiita-ipn-myportfolio.vercel.app/",
+    visit: "https://github.com/AngelMG23/my-repository",
+    id: 3,
   },
 ];
 

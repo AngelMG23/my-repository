@@ -21,6 +21,9 @@ import {
   SectionTitle2,
 } from "../styles/GlobalComponents";
 import { projects } from "../constants/constants";
+
+import { projects1 } from "../constants/constants";
+
 import Header2 from "../components/Header/Header2";
 import { Container } from "../layout/LayoutStyles";
 import Footer from "../components/Footer/Footer";
@@ -63,4 +66,44 @@ const Projects = () => (
   </>
 );
 
+const Projects1 = () => (
+  <>
+    <Container>
+      <Header2 />
+    </Container>
+    <Section nopadding id="projects1">
+      <SectionTitle2 main>Projects</SectionTitle2>
+      <GridContainer>
+        {projects1.map(
+          ({ id, image, title, description, tags, source, visit }) => (
+            <BlogCard key={id}>
+              <Img src={image} />
+              <TitleContent>
+                <HeaderThree title>{title}</HeaderThree>
+                <Hr />
+              </TitleContent>
+              <CardInfo>{description}</CardInfo>
+              <div>
+                <TitleContent>React</TitleContent>
+                <TagList>
+                  {tags.map((tag, i) => (
+                    <Tag key={i}>{tag}</Tag>
+                  ))}
+                </TagList>
+              </div>
+              <UtilityList>
+                <ExternalLinks href={visit}>Code</ExternalLinks>
+                <ExternalLinks href={source}>Site</ExternalLinks>
+              </UtilityList>
+            </BlogCard>
+          )
+        )}
+      </GridContainer>
+    </Section>
+
+    <Footer />
+  </>
+);
+
 export default Projects;
+export default Projects1;

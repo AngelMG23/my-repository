@@ -27,7 +27,7 @@ function Hero() {
           Hello There, I'm
           <br />
           <Span>Ángel Martínez</Span> <br />
-          Mechatronic engineer
+          Mechatronics engineer
           <Span2 style={{ marginLeft: "2rem" }} ref={textRef}></Span2>
         </SectionTitle>
         <SectionText2>
