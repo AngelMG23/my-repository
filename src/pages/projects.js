@@ -23,6 +23,7 @@ import {
 import { projects } from "../constants/constants";
 
 import { projects1 } from "../constants/constants";
+import { projects2 } from "../constants/constants";
 
 import Header2 from "../components/Header/Header2";
 import { Container } from "../layout/LayoutStyles";
@@ -53,8 +54,8 @@ const Projects = () => (
                 </TagList>
               </div>
               <UtilityList>
-                <ExternalLinks href={visit}>Result</ExternalLinks>
-                <ExternalLinks href={source}>Video</ExternalLinks>
+                <ExternalLinks href={source}>Result</ExternalLinks>
+                <ExternalLinks href={visit}>Video</ExternalLinks>
               </UtilityList>
             </BlogCard>
           )
@@ -78,8 +79,33 @@ const Projects = () => (
                 </TagList>
               </div>
               <UtilityList>
-                <ExternalLinks href={visit}>Code</ExternalLinks>
-                <ExternalLinks href={source}>Site</ExternalLinks>
+                <ExternalLinks href={source}>Code</ExternalLinks>
+                <ExternalLinks href={visit}>Site</ExternalLinks>
+              </UtilityList>
+            </BlogCard>
+          )
+        )}
+
+        {projects2.map(
+          ({ id, image, title, description, tags, source, visit }) => (
+            <BlogCard key={id}>
+              <Img src={image} />
+              <TitleContent>
+                <HeaderThree title>{title}</HeaderThree>
+                <Hr />
+              </TitleContent>
+              <CardInfo>{description}</CardInfo>
+              <div>
+                <TitleContent>CAD</TitleContent>
+                <TagList>
+                  {tags.map((tag, i) => (
+                    <Tag key={i}>{tag}</Tag>
+                  ))}
+                </TagList>
+              </div>
+              <UtilityList>
+                <ExternalLinks href={source}>Models</ExternalLinks>
+                <ExternalLinks href={visit}>Video</ExternalLinks>
               </UtilityList>
             </BlogCard>
           )
