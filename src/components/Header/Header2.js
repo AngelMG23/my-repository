@@ -8,6 +8,7 @@ import {
   AiOutlineContacts,
 } from "react-icons/ai";
 import { DiMaterializecss } from "react-icons/di";
+import { ImSpinner4 } from "react-icons/im";
 
 import {
   Container,
@@ -31,7 +32,7 @@ const Header = () => (
             marginBottom: "16px",
           }}
         >
-          <DiMaterializecss size="3rem" /> <Span>Portfolio</Span>
+          <ImSpinner4 size="2rem" /> <Span>-</Span><Span>Angel-MG</Span>
         </a>
       </Link>
     </Div1>
