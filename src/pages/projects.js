@@ -59,21 +59,7 @@ const Projects = () => (
             </BlogCard>
           )
         )}
-      </GridContainer>
-    </Section>
 
-    <Footer />
-  </>
-);
-
-const Projects1 = () => (
-  <>
-    <Container>
-      <Header2 />
-    </Container>
-    <Section nopadding id="projects1">
-      <SectionTitle2 main>Projects</SectionTitle2>
-      <GridContainer>
         {projects1.map(
           ({ id, image, title, description, tags, source, visit }) => (
             <BlogCard key={id}>
@@ -98,6 +84,7 @@ const Projects1 = () => (
             </BlogCard>
           )
         )}
+
       </GridContainer>
     </Section>
 
@@ -105,5 +92,6 @@ const Projects1 = () => (
   </>
 );
 
+
 export default Projects;
-export default Projects1;
+
