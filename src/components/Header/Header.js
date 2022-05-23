@@ -33,7 +33,7 @@ const Header = () => (
             marginBottom: "16px",
           }}
         >
-          <ImSpinner4 size="4rem" /> <Span>AngelMG23</Span>
+          <ImSpinner4 size="3rem" /> <Span>Angel-MG</Span>
         </a>
       </Link>
     </Div1>
