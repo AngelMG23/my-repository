@@ -70,7 +70,7 @@ const Projects = () => (
               </TitleContent>
               <CardInfo>{description}</CardInfo>
               <div>
-                <TitleContent>React</TitleContent>
+                <TitleContent>Portfolio</TitleContent>
                 <TagList>
                   {tags.map((tag, i) => (
                     <Tag key={i}>{tag}</Tag>
