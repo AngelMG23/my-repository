@@ -12,11 +12,11 @@ export const projects = [
   {
     title: "This Portfolio",
     description:
-      "This portfolio was built with React.JS and next. Many styled-components was created to be used everywhere on the app. This website is entirely responsive and i used ityped for the dynamic text on the hero.",
+      "This portfolio was built with React.JS and next. Many styled-components was created to be used everywhere on the app. This website is based on a open source template.",
     image: "/images/portfolio.png",
     tags: ["React", "Next", "Styled-Components"],
-    source: "https://kevin-toussaint.com/",
-    visit: "https://github.com/NivekDevv/Portfolio",
+    source: "https://angelmg23-upiita-ipn-myportfolio.vercel.app/",
+    visit: "https://github.com/AngelMG23/my-repository",
     id: 3,
   },
   {
