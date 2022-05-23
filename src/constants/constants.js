@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: "Mening",
+    title: "Thesis: SLAM in Robot Mobile",
     description:
-      "Mening is an MVP which was built as part as my final examination. This app allows you to create surveys, or box ideas, and to share them with your community. Mening enables people to share their ideas, or answer polls.",
-    image: "/images/mening.png",
-    tags: ["Mongo", "Express", "React", "Node"],
+      "SLAM implemented on a robot mobile for exploration disaster-affected areas was develop with the objective to achieve the Mechatronics Engineering degree. This work was based on ORB SLAM",
+    image: "/images/Thesis.png",
+    tags: ["A Vision", "Robotics", "ROS", "Python/C/C++/java"],
     source: "https://youtu.be/6Fv7bVzNU6c",
-    visit: "https://github.com/NivekDevv/Mening",
+    visit: "https://rafalamao.github.io/react-slam-page/",
     id: 0,
   },
   {
