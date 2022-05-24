@@ -20,7 +20,7 @@ const data = [
   { number: 2021, text: "I realized my thesis work to obtain the Mechatronics engineer degree" },
   {
     number: 2021,
-    text: "In December I finished my social service writing a research project at Centro de Desarrollo Espacial IPN"
+    text: "In December I finished my social service writing a research project at Centro de Desarrollo Aeroespacial IPN"
   }
 ];
 

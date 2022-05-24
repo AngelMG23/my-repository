@@ -32,7 +32,7 @@ const Education = () => (
     <SectionDivider style={{ marginBottom: "3%" }} />
     <SectionTitle>Education</SectionTitle>
     <SectionText>
-      My technical education started at 2009 at the elementary school when I studied as Electrical Technical Assistant, 
+      My technical education started at 2009 at the middle school when I studied as Electrical Technical Assistant, 
       then I studied at high school with diploma the Mechatronics Technical Career. The latest studies so far was the
       Mechatronics engineering Degree at UPITTA-IPN. Aditionally, I studied 1 year the Industrial Robotics Degree at ESIME-IPN
     </SectionText>
