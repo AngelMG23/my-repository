@@ -31,7 +31,7 @@ export const projects2 = [
       "This academic project was carried out in SolidWorks by a taking measurements in a sketchup model. Also, was simulated the assambly process and a bit movement of the each axis.",
     image: "/images/3axis.png",
     tags: ["SolidWorks", "Simulation", "Sketchup"],
-    source: "https://drive.google.com/file/d/1Hlr_ZuCWjvSW4ooIIRrz-jlj2OjQAOTD/view?usp=sharing",
+    source: "https://drive.google.com/drive/folders/1WnEF6hYjHX_vQ2wXxQdOtoulHGkaK2pK?usp=sharing",
     visit: "https://drive.google.com/file/d/1Hlr_ZuCWjvSW4ooIIRrz-jlj2OjQAOTD/view?usp=sharing",
     id: 3,
   },
