@@ -30,7 +30,7 @@ const Technologies = () => (
       competitive. Additionally, in topics like programming I've programmed in languages like Python, C/C++, Matlab, 
       LabView and I know a little of ROS and Java but I consider myself with an indiviual level in this field. Finally, 
       also I've worked with PIC's, Arduino, Raspberry, Cortex-M4 (Nucleo 64), FPGA for academic mechatronics systems, and
-      I wanto to learn more about these by conducted persoanl projects.
+      I wanto to learn more about these by conducted personal projects.
     </SectionText>
     <List>
       <ListItem>
