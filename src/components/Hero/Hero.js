@@ -31,8 +31,7 @@ function Hero() {
           Mechatronics engineer
         </SectionTitle>
         <SectionText>
-          -
-          <br /> <Span2 style={{ marginLeft: "0rem" }} ref={textRef}></Span2>
+          - <Span2 style={{ marginLeft: "0rem" }} ref={textRef}> </Span2>
         </SectionText>
         <SectionText2>
           Are you looking for a person that with effort, discipline, and perseverance
