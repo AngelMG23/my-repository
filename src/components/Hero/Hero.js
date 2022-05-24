@@ -15,8 +15,8 @@ function Hero() {
   useEffect(() => {
     init(textRef.current, {
       showCursor: false,
-      typeSpeed: 200,
-      backSpeed: 100,
+      typeSpeed: 150,
+      backSpeed: 50,
       loop: true,
       strings: ["Mechanical design", "Electrical & Electronics", "Automation", "Manufacturing Process"],
     });
@@ -31,7 +31,9 @@ function Hero() {
           Mechatronics engineer
           
         </SectionTitle>
-        <Span2 style={{ marginLeft: "2rem" }} ref={textRef}></Span2>
+        <SectionText>
+        <Span2 style={{ marginLeft: "0rem" }} ref={textRef}></Span2>
+        </SectionText>
         <SectionText2>
           Are you looking for a person that with effort, discipline, and perseverance
           can become the hard work into smart work? I'm here for you! Highly motivated
