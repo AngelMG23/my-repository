@@ -37,12 +37,12 @@ font-size:90px;
 `;
 
 export const Span2 = styled.span`
-  font-size: 9rem;
+  font-size: 8rem;
   background: linear-gradient(130deg, #f4743b 70%, #122c34 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   @media ${(props) => props.theme.breakpoints.md} {
-    max-width: 700px;
+    max-width: 670px;
     font-size: 35px;
     line-height: 32px;
     padding-bottom: 24px;
