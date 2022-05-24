@@ -15,8 +15,6 @@ function Hero() {
   useEffect(() => {
     init(textRef.current, {
       showCursor: false,
-      typeSpeed: 500,
-      backSpeed: 500,
       loop: true,
       strings: ["Mechanical design", "Electrical & Electronics", "Automation", "Manufacturing Process"],
     });
