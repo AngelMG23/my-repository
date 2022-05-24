@@ -67,7 +67,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hey!, my name is Ángel Martínez, I am a 25 years old mechatronic engineer
+        Hey!, my name is Ángel Martínez, I am a 25 years old mechatronics engineer
         graduated in 2021. Since 5 months ago I've learned to use and understand
         the Unigraphics NX software as well as improving my programming skills, 
         mainly in Python by taking courses. Also in the last month I finished a 
