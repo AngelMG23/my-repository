@@ -3,6 +3,7 @@ import { init } from "ityped";
 import {
   Section,
   SectionText,
+  SectionDivider,
   SectionTitle,
   SectionText2,
 } from "../../styles/GlobalComponents";
@@ -29,6 +30,7 @@ function Hero() {
           <Span>Ángel Martínez</Span> <br />
           Mechatronics engineer
           <Span2 style={{ marginLeft: "2rem" }} ref={textRef}></Span2>
+        <SectionDivider/>
         </SectionTitle>
         <SectionText2>
           Are you looking for a person that with effort, discipline, and perseverance
