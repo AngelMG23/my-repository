@@ -42,7 +42,7 @@ export const Span2 = styled.span`
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   @media ${(props) => props.theme.breakpoints.md} {
-    max-width: 770px;
+    max-width: 700px;
     font-size: 35px;
     line-height: 32px;
     padding-bottom: 24px;
