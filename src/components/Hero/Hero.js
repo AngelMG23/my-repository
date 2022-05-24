@@ -8,7 +8,7 @@ import {
   SectionText2,
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
-import { LeftSection, Span, Span2 } from "./HeroStyles";
+import { LeftSection, Span, Span1, Span2 } from "./HeroStyles";
 
 function Hero() {
   const textRef = useRef();
@@ -29,10 +29,9 @@ function Hero() {
           <br />
           <Span>Ángel Martínez</Span> <br />
           Mechatronics engineer
-          
         </SectionTitle>
         <SectionText>
-        <Span2 style={{ marginLeft: "0rem" }} ref={textRef}></Span2>
+        <Span1 style={{ marginLeft: "0rem" }} ref={textRef}></Span1>
         </SectionText>
         <SectionText2>
           Are you looking for a person that with effort, discipline, and perseverance
