@@ -41,7 +41,7 @@ function Hero() {
         <Button
           onClick={() =>
             (window.location =
-              "https://drive.google.com/file/d/1_ZYGjq4KxMbnSWGVCwjdIUMfIZc6Ce4t/view?usp=sharing")
+              "https://correoipn-my.sharepoint.com/:f:/g/personal/lmartinezg1511_alumno_ipn_mx/Eq3mjSBJ_BZDmjcinTG63RkB6Vz1GbaIk5CXyK-_AUUNGg?e=Kgiemh")
           }
         >
           <td>My CV</td>
