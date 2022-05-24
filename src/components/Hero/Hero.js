@@ -8,15 +8,15 @@ import {
   SectionText2,
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
-import { LeftSection, Span, Span1, Span2 } from "./HeroStyles";
+import { LeftSection, Span, Span2 } from "./HeroStyles";
 
 function Hero() {
   const textRef = useRef();
   useEffect(() => {
     init(textRef.current, {
       showCursor: false,
-      typeSpeed: 150,
-      backSpeed: 50,
+      typeSpeed: 200,
+      backSpeed: 100,
       loop: true,
       strings: ["Mechanical design", "Electrical & Electronics", "Automation", "Manufacturing Process"],
     });
@@ -29,10 +29,9 @@ function Hero() {
           <br />
           <Span>Ángel Martínez</Span> <br />
           Mechatronics engineer
+          
         </SectionTitle>
-        <SectionText>
-        <Span1 style={{ marginLeft: "0rem" }} ref={textRef}></Span1>
-        </SectionText>
+        <Span2 style={{ marginLeft: "0rem" }} ref={textRef}></Span2>
         <SectionText2>
           Are you looking for a person that with effort, discipline, and perseverance
           can become the hard work into smart work? I'm here for you! Highly motivated

@@ -36,30 +36,13 @@ font-size:90px;
   }
 `;
 
-export const Span1 = styled.span`
-font-size:90px;
-  @media ${(props) => props.theme.breakpoints.md} {
-    max-width: 770px;
-    font-size: 65px;
-    line-height: 32px;
-    padding-bottom: 24px;
-  }
-
-  @media ${(props) => props.theme.breakpoints.sm} {
-    font-size: 45px;
-    padding-top: 15px
-    line-height: 24px;
-    padding-bottom: 16px;
-  }
-`;
-
 export const Span2 = styled.span`
   font-size: 9rem;
   background: linear-gradient(130deg, #f4743b 70%, #122c34 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   @media ${(props) => props.theme.breakpoints.md} {
-    max-width: 670px;
+    max-width: 770px;
     font-size: 35px;
     line-height: 32px;
     padding-bottom: 24px;
