@@ -29,9 +29,11 @@ function Hero() {
           <br />
           <Span>Ángel Martínez</Span> <br />
           Mechatronics engineer
-          
         </SectionTitle>
-        <Span2 style={{ marginLeft: "0rem" }} ref={textRef}></Span2>
+        <SectionText>
+          -
+          <br /> <Span2 style={{ marginLeft: "0rem" }} ref={textRef}></Span2>
+        </SectionText>
         <SectionText2>
           Are you looking for a person that with effort, discipline, and perseverance
           can become the hard work into smart work? I'm here for you! Highly motivated
