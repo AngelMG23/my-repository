@@ -28,7 +28,7 @@ export const projects2 = [
   {
     title: "3-Axis cartesian system",
     description:
-      "This academic project was carried out in SolidWorks by a taking measurements in a sketchup model. Also, was simulated the assambly process and a bit movement of the each axis.",
+      "This academic project was carried out in SolidWorks by taking measurements in a sketchup model. Also, was simulated the assambly process and a bit movement of the each axis.",
     image: "/images/3axis.png",
     tags: ["SolidWorks", "Simulation", "Sketchup"],
     source: "https://drive.google.com/drive/folders/1WnEF6hYjHX_vQ2wXxQdOtoulHGkaK2pK?usp=sharing",
@@ -41,11 +41,11 @@ export const projects3 = [
   {
     title: "Humanoid robot",
     description:
-      "Currently this personal project is in progress.",
-    image: "/images/3axis.png",
+      "(Ilustrative picture). Currently this personal project is in progress. The purpose is improve my CAD skills in Unigraphics NX and implemented code to generate its movements",
+    image: "/images/humanoid.png",
     tags: ["Unigraphics NX", "Programming", "Electronics"],
-    source: "https://drive.google.com/file/d/1Hlr_ZuCWjvSW4ooIIRrz-jlj2OjQAOTD/view?usp=sharing",
-    visit: "https://drive.google.com/file/d/1Hlr_ZuCWjvSW4ooIIRrz-jlj2OjQAOTD/view?usp=sharing",
+    source: "https://drive.google.com/drive/folders/1S3EA7yElVFO9GMB9GPz4f9VjUoClwLfj?usp=sharing",
+    visit: " ",
     id: 3,
   },
 ];
