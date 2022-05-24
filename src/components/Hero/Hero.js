@@ -15,8 +15,8 @@ function Hero() {
   useEffect(() => {
     init(textRef.current, {
       showCursor: false,
-      typeSpeed: 120,
-      backSpeed: 30,
+      typeSpeed: 500,
+      backSpeed: 500,
       loop: true,
       strings: ["Mechanical design", "Electrical & Electronics", "Automation", "Manufacturing Process"],
     });
@@ -30,7 +30,6 @@ function Hero() {
           <Span>Ángel Martínez</Span> <br />
           Mechatronics engineer
           <Span2 style={{ marginLeft: "2rem" }} ref={textRef}></Span2>
-        <SectionDivider/>
         </SectionTitle>
         <SectionText2>
           Are you looking for a person that with effort, discipline, and perseverance
