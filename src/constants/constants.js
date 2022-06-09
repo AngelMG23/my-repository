@@ -41,7 +41,7 @@ export const projects3 = [
   {
     title: "Humanoid robot",
     description:
-      "(Ilustrative picture). Currently this personal project is in progress. The purpose is improve my CAD skills in Unigraphics NX and implemented code to generate its movements",
+      "(Project progress). Currently this personal project is in progress. The purpose is improve my CAD skills in Unigraphics NX and implemented code to generate its movements",
     image: "/images/humanoid.png",
     tags: ["Unigraphics NX", "Programming", "Electronics"],
     source: "https://drive.google.com/drive/folders/1S3EA7yElVFO9GMB9GPz4f9VjUoClwLfj?usp=sharing",
