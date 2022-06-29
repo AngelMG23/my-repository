@@ -137,6 +137,31 @@ const Projects = () => (
           )
         )}
 
+        {projects4.map(
+          ({ id, image, title, description, tags, source, visit }) => (
+            <BlogCard key={id}>
+              <Img src={image} />
+              <TitleContent>
+                <HeaderThree title>{title}</HeaderThree>
+                <Hr />
+              </TitleContent>
+              <CardInfo>{description}</CardInfo>
+              <div>
+                <TitleContent>CAD/CATIA V5</TitleContent>
+                <TagList>
+                  {tags.map((tag, i) => (
+                    <Tag key={i}>{tag}</Tag>
+                  ))}
+                </TagList>
+              </div>
+              <UtilityList>
+                <ExternalLinks href={source}>Practice Parts</ExternalLinks>
+                <ExternalLinks href={visit}>Simulation</ExternalLinks>
+              </UtilityList>
+            </BlogCard>
+          )
+        )}
+
       </GridContainer>
     </Section>
 

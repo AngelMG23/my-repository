@@ -50,6 +50,19 @@ export const projects3 = [
   },
 ];
 
+export const projects4 = [
+  {
+    title: "CATIA V5 Apprenticeship",
+    description:
+      "(Learning in progress). Few days ago I started learning CATIA V5. This section is for show my progress and some exercises I have done.",
+    image: "/images/humanoid.png",
+    tags: ["CATIA V5", "CAD/CAE", "Simulation"],
+    source: "https://drive.google.com/drive/folders/1YxSKJnZLy9Ihob5BlAIuOdk7vg8uf4n6?usp=sharing",
+    visit: "https://drive.google.com/file/d/19bvLjlXXPqSyH6e4lqQF-xJANJqNaJ2k/view?usp=sharing",
+    id: 3,
+  },
+];
+
 export const TimeLineData = [
   { year: 1997, text: "Started my life" },
   {
