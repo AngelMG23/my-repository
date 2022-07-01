@@ -54,7 +54,7 @@ export const projects4 = [
   {
     title: "CATIA V5 Apprenticeship",
     description:
-      "(Learning in progress). Three weeks ago I started learning CATIA V5. This section is for show my progress and some exercises I have done.",
+      "(Learning in progress). On 09th June 2022 I started learning CATIA V5. This section is for show my progress and some exercises I have done.",
     image: "/images/AssamblyEngine.png",
     tags: ["CATIA V5", "CAD/CAE", "Simulation"],
     source: "https://drive.google.com/drive/folders/1YxSKJnZLy9Ihob5BlAIuOdk7vg8uf4n6?usp=sharing",
