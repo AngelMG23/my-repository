@@ -157,7 +157,7 @@ const Projects = () => (
               </div>
               <UtilityList>
                 <ExternalLinks href={source}>Practice Parts</ExternalLinks>
-                <ExternalLinks href={visit}>Simulation</ExternalLinks>
+                <ExternalLinks href={visit}>Simulations</ExternalLinks>
               </UtilityList>
             </BlogCard>
           )

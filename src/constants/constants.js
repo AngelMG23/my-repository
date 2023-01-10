@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Thesis: SLAM in Robot Mobile",
     description:
-      "SLAM implemented on a robot mobile for exploration disaster-affected areas was develop with the objective to achieve the Mechatronics Engineering degree. This work was based on ORB SLAM",
+      "SLAM implemented with a mobile robot for exploration disaster-affected areas was develop with the objective to achieve the Mechatronics Engineering degree. This work was based on ORB SLAM",
     image: "/images/Thesis.png",
     tags: ["A. Vision", "Gazebo", "ROS", "Python/C/C++/java"],
     source: "https://rafalamao.github.io/react-slam-page/",
@@ -41,7 +41,7 @@ export const projects3 = [
   {
     title: "Humanoid robot",
     description:
-      "(Project progress). Currently this personal project is in progress. The purpose is improve my CAD skills in Unigraphics NX and implemented code to generate its movements",
+      "(Project in progress). Currently this personal project is in progress. The purpose is improve my CAD skills in Unigraphics NX and implemented code to generate its movements",
     image: "/images/HumRob.png",
     tags: ["Unigraphics NX", "Programming", "Electronics"],
     source: "https://drive.google.com/drive/folders/1S3EA7yElVFO9GMB9GPz4f9VjUoClwLfj?usp=sharing",
