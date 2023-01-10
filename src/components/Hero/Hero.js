@@ -34,14 +34,14 @@ function Hero() {
         <SectionText2>
           Are you looking for a person that with effort, discipline, and perseverance
           can become the hard work into smart work? I'm here for you! Highly motivated
-          and willing to start my professional career to make a better future for a the best world
+          and willing to start my professional career to make a better future.
           You can download my CV/Resume by clicking on the button below.
           <br />
         </SectionText2>
         <Button
           onClick={() =>
             (window.location =
-              "https://correoipn-my.sharepoint.com/:b:/g/personal/lmartinezg1511_alumno_ipn_mx/EX23_N0XKxhBq2N1mJESJZwBHGbNizv8geSSPQIiC4mWnA?e=xVdDYQ")
+              "https://correoipn-my.sharepoint.com/:b:/r/personal/lmartinezg1511_alumno_ipn_mx/Documents/CV/LAMG_Resume.pdf?csf=1&web=1&e=KkqQKj")
           }
         >
           <td>My CV</td>

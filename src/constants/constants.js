@@ -42,7 +42,7 @@ export const projects3 = [
     title: "Humanoid robot",
     description:
       "(Project progress). Currently this personal project is in progress. The purpose is improve my CAD skills in Unigraphics NX and implemented code to generate its movements",
-    image: "/images/humanoid.png",
+    image: "/images/HumRob.png",
     tags: ["Unigraphics NX", "Programming", "Electronics"],
     source: "https://drive.google.com/drive/folders/1S3EA7yElVFO9GMB9GPz4f9VjUoClwLfj?usp=sharing",
     visit: " ",
@@ -58,7 +58,7 @@ export const projects4 = [
     image: "/images/AssamblyEngine.png",
     tags: ["CATIA V5", "CAD/CAE", "Simulation"],
     source: "https://drive.google.com/drive/folders/1YxSKJnZLy9Ihob5BlAIuOdk7vg8uf4n6?usp=sharing",
-    visit: "https://drive.google.com/file/d/19bvLjlXXPqSyH6e4lqQF-xJANJqNaJ2k/view?usp=sharing",
+    visit: "https://drive.google.com/open?id=1l-LdJv6nFIXLxMUSMMVYy_heCslaRp95&authuser=1&usp=drive_link",
     id: 3,
   },
 ];
@@ -71,5 +71,5 @@ export const TimeLineData = [
   },
   { year: 2012, text: "First mechatronics schoolar projects" },
   { year: 2016.2021, text: "Mechatronics became in my passion" },
-  { year: 2022, text: "Looking for professional experience" },
+  { year: 2023, text: "Looking for professional experience" },
 ];
