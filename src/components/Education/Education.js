@@ -41,7 +41,7 @@ const Education = () => (
     </SectionText>
     <List>
       <ListItem>
-        <GiBigGear
+        <GiElectricalResistance
           style={{
             marginLeft: "14%",
           }}
@@ -62,7 +62,7 @@ const Education = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <GiMechanicalArm
+        <GiTrackedRobot
           style={{
             marginLeft: "14%",
           }}
@@ -82,7 +82,7 @@ const Education = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <GiTrackedRobot
+        <GiGears
           style={{
             marginLeft: "14%",
           }}
