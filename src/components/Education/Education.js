@@ -3,7 +3,7 @@ import { DiFirebase, DiReact, DiZend, DiNodejsSmall } from "react-icons/di";
 import { SiDassaultsystemes, SiSiemens, SiAutodesk } from "react-icons/si";
 import { FcElectronics, FcProcess, FcElectroDevices } from "react-icons/fc";
 import { BsCodeSlash } from "react-icons/bs";
-import { GiMechanicalArm, GiTrackedRobot, GiBigGear } from "react-icons/gi";
+import { GiElectricalResistance, GiTrackedRobot, GiGears } from "react-icons/gi";
 
 import {
   Section,
