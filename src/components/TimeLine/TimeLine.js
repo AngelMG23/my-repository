@@ -67,7 +67,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hey!, my name is Ángel Martínez, I am a 25 years old, I am mechatronics engineer
+        Hey!, my name is Ángel Martínez, I am a 26 years old, I'm mechatronics engineer
         graduated in 2021. Since January 2022 I've been learning to use and understand
         Unigraphics NX software as well as improving my programming skills, 
         mainly in Python by taking courses. Furthermore, in June 2022 I started to learn how to use 
@@ -78,8 +78,10 @@ const Timeline = () => {
         implemented on a mobile robot for the exploration of disaster-affected areas, 
         this work was made possible thanks to my partners. Finally, I have been 
         practicing coding, CAD/CAE (for mechanical design) by designing personal
-        projects and improving my english skills, mainly, while some company hires me. 
-        I don't have relevant industry experince, nevertheless my motivation is at a 100%.
+        projects and improving my english skills, and I started a new school challenge 
+        by studying a specialisation postgraduate course in Mechanical engineer, for this reason
+        I'm looking for a chance to work either as an intern or trainee. I don't have relevant 
+        industry experince, nevertheless my motivation is at a 100%.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

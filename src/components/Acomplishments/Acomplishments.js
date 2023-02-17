@@ -21,6 +21,10 @@ const data = [
   {
     number: 2022,
     text: "Thesis work was presented at Noveno Congreso de Robótica y Computación (CIRC 2022)",
+  },
+  {
+    number: 2023,
+    text: "I'm studying a specialisation postgraduate course in Mechanical engineering",
   }
 ];
 
