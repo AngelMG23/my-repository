@@ -52,7 +52,7 @@ const Technologies = () => (
               Experience with
             </span>{" "}
             <br />
-            <br /> Solidworks <br /> 3D Modeling <br /> Finite Element Analysis <br /> Simulation <br /> SimMechanics <br />{" "}
+            <br /> Solidworks <br /> CATIA V5 <br /> 3D Modeling <br /> Finite Element Analysis <br /> Simulation <br /> SimMechanics <br />{" "}
             Sheet metal
           </ListParagraph>
         </ListContainer>
