@@ -33,8 +33,11 @@ const Education = () => (
     <SectionTitle>Education</SectionTitle>
     <SectionText>
       My technical education started at 2009 at the middle school when I studied for Electrical Technical Assistant, 
-      afterwars I studied at high school with diploma in the Mechatronics Technical Career. The latest studies so far was the
-      Mechatronics engineering Degree at UPITTA-IPN. Aditionally, I studied 1 year the Industrial Robotics Degree at ESIME-IPN
+      afterwars I studied at high school with diploma in the Mechatronics Technical Career. I studied 1 year the Industrial 
+      Robotics engineering at ESIME-IPN. The latest undergraduate studies so far was the Mechatronics engineering Degree 
+      at UPITTA-IPN. Currently, on 30 January I started to study a specialisation postgraduate course in Mechanical 
+      engineering  at Sección de Estudios de Posgrado e Investigación, SEPI-ESIME IPN, where I have been learning topics like, 
+      mainly, Finite Element Method, Mechanical of materials, and Ansys,.
     </SectionText>
     <List>
       <ListItem>
@@ -66,15 +69,15 @@ const Education = () => (
           size="6rem"
         />
         <ListContainer>
-          <ListTitle>Industrial Robotics Engineering</ListTitle>
+          <ListTitle>Mechatronics Engineering</ListTitle>
           <ListParagraph>
-          <span style={{ fontWeight: "bolder", fontStyle: "normal", }}>
-              ESIME - IPN <br /> 2015 - 2016
+            <span style={{ fontWeight: "bolder", fontStyle: "normal", }}>
+              UPIITA - IPN <br /> 2016 - 2021
             </span>{" "} <br />
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Tech Knowleadge
             </span>{" "}
-            <br /> <br /> AutoCAD, C/C++
+            <br /> <br /> Mechanical Design, Automation/Manufacturing Process, Control, Programming/IT, Electrical/Electronics Circuits, Robotics
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -86,15 +89,15 @@ const Education = () => (
           size="6rem"
         />
         <ListContainer>
-          <ListTitle>Mechatronics Engineering</ListTitle>
+          <ListTitle>Specialisation in Mechanical Engineering</ListTitle>
           <ListParagraph>
-            <span style={{ fontWeight: "bolder", fontStyle: "normal", }}>
-              UPIITA - IPN <br /> 2016 - 2021
+          <span style={{ fontWeight: "bolder", fontStyle: "normal", }}>
+              SEPI - ESIME - IPN <br /> 2023 - 2023
             </span>{" "} <br />
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Tech Knowleadge
             </span>{" "}
-            <br /> <br /> Mechanical Design, Automation/Manufacturing Process, Control, Programming/IT, Electrical/Electronics Circuits, Robotics
+            <br /> <br /> Ansys, Finite Element Method
           </ListParagraph>
         </ListContainer>
       </ListItem>
