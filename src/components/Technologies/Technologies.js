@@ -2,7 +2,7 @@ import React from "react";
 import { DiFirebase, DiReact, DiZend, DiNodejsSmall } from "react-icons/di";
 import { SiDassaultsystemes, SiSiemens, SiAutodesk } from "react-icons/si";
 import { FcElectronics } from "react-icons/fc";
-import { SiAnsys } from "react-icons/si";
+import { GiMeshNetwork } from "react-icons/gi";
 import { BsCodeSlash } from "react-icons/bs";
 import {
   Section,
@@ -111,7 +111,7 @@ const Technologies = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <SiAnsys
+        <GiMeshNetwork
           style={{
             marginLeft: "14%",
           }}
