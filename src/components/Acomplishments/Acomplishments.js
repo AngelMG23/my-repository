@@ -28,7 +28,7 @@ const data = [
   },
   {
     number: 2023,
-    text: "Since may I've been working as Tester Jr. at Ford Motor Company thanks to Alten",
+    text: "Since May I've been working as Tester Jr. at Ford Motor Company thanks to Alten",
   },
 ];
 

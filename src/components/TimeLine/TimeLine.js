@@ -67,21 +67,22 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hey!, my name is Ángel Martínez, I am a 26 years old, I'm mechatronics engineer
-        graduated in 2021. Since January 2022 I've been learning to use and understand
+        Hey!, my name is Ángel Martínez, I am 26 years old, I'm mechatronics engineer
+        graduated in 2021. Since January 2022 I've been learning how to use and understand
         Unigraphics NX software as well as improving my programming skills, 
         mainly in Python by taking courses. Furthermore, in June 2022 I started to learn how to use 
         CATIA V5 in order to become myself competitive in this software and make some personal 
         projects in the future. In my academic life, the main projects 
-        I realized were: 4-cylinder engine designed in SolidWorks by taking the 
-        dimensions from the real engine, my thesis work, it was a SLAM system 
-        implemented on a mobile robot for the exploration of disaster-affected areas, 
+        I have realized are: 4-cylinder engine designed in SolidWorks by taking the 
+        dimensions from real engine, my thesis degree, it was a SLAM system 
+        implemented on a mobile robot for the exploration of dissaster-affected areas, 
         this work was made possible thanks to my partners. Finally, I have been 
         practicing coding, CAD/CAE (for mechanical design) by designing personal
         projects and improving my english skills, and I started a new school challenge 
-        by studying a specialisation postgraduate course in Mechanical engineer, for this reason
-        I'm looking for a chance to work either as an intern or trainee. I don't have relevant 
-        industry experince, nevertheless my motivation is at a 100%.
+        by studying a specialization postgraduate in Mechanical engineering, for this reason
+        I'm looking for a chance to work either as an intern or trainee in the CAE/CAD, mechanical design, or related. 
+        I don't possess relevant industry experince in this field, nevertheless my motivation is at a 100% and I've been working
+        in a great company like Ford since May 2023 as Tester engineer.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

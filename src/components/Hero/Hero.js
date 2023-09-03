@@ -34,7 +34,8 @@ function Hero() {
         <SectionText2>
           Are you looking for a person that with effort, discipline, and perseverance
           can become the hard work into smart work? I'm here for you! Highly motivated
-          and willing to start my professional career to make a better future.
+          and willing to demonstrate my passion on CAE/CAD, mechanical design fields, 
+          and take it to the next level and become myself as an expert.
           You can download my CV/Resume by clicking on the button below.
           <br />
         </SectionText2>
