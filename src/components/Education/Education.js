@@ -54,7 +54,7 @@ const Education = () => (
               CBT Lic. Mario Colín Sánchez <br /> 2012 - 2015
             </span>{" "} <br />
             <span style={{ fontWeight: "bolder", fontStyle: "italic", }}>
-              Tech Knowleadge
+              Tech Knowledge
             </span>{" "}
             <br />
             <br /> Technical drawings, basic electronics, PLC automation <br /> Pneumatics and Hydraulics 
@@ -75,7 +75,7 @@ const Education = () => (
               UPIITA - IPN <br /> 2016 - 2021
             </span>{" "} <br />
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
-              Tech Knowleadge
+              Tech Knowledge
             </span>{" "}
             <br /> <br /> Mechanical Design, Automation/Manufacturing Process, Control, Programming/IT, Electrical/Electronics Circuits, Robotics
           </ListParagraph>
@@ -89,13 +89,13 @@ const Education = () => (
           size="6rem"
         />
         <ListContainer>
-          <ListTitle>Specialisation in Mechanical Engineering</ListTitle>
+          <ListTitle>Specialization in Mechanical Engineering</ListTitle>
           <ListParagraph>
           <span style={{ fontWeight: "bolder", fontStyle: "normal", }}>
               SEPI - ESIME - IPN <br /> 2023 - 2023
             </span>{" "} <br />
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
-              Tech Knowleadge
+              Tech Knowledge
             </span>{" "}
             <br /> <br /> Ansys, Finite Element Method
           </ListParagraph>
