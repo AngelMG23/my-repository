@@ -109,7 +109,7 @@ const Technologies = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <FcProcess
+        <SiAnsys
           style={{
             marginLeft: "14%",
           }}
