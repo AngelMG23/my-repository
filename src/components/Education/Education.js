@@ -32,12 +32,12 @@ const Education = () => (
     <SectionDivider style={{ marginBottom: "3%" }} />
     <SectionTitle>Education</SectionTitle>
     <SectionText>
-      My technical education started at 2009 at the middle school when I studied for Electrical Technical Assistant, 
-      afterwars I studied at high school with diploma in the Mechatronics Technical Career. I studied 1 year the Industrial 
-      Robotics engineering at ESIME-IPN. The latest undergraduate studies so far was the Mechatronics engineering Degree 
-      at UPITTA-IPN. Currently, on 30 January I started to study a specialisation postgraduate course in Mechanical 
+      My technical education started in 2009 at the middle school when I was studying to be Electrical Technical Assistant, 
+      afterwars I studied the high school where I obtained diploma in Mechatronics Technical. Then, I studied 1 year the Industrial 
+      Robotics engineering at ESIME-IPN. The latest undergraduate studies so far was the Mechatronics engineering degree 
+      at UPITTA-IPN. Currently, since 30 January I started to study a specialization postgraduate course in Mechanical 
       engineering  at Sección de Estudios de Posgrado e Investigación, SEPI-ESIME IPN, where I have been learning topics like, 
-      mainly, Finite Element Method, Mechanical of materials, and Ansys,.
+      mainly, Finite Element Method, Mechanical of materials, Mechanisms design, Maths, and tools like Ansys Workbench, SpaceClaim for CAE.
     </SectionText>
     <List>
       <ListItem>
@@ -92,12 +92,12 @@ const Education = () => (
           <ListTitle>Specialization in Mechanical Engineering</ListTitle>
           <ListParagraph>
           <span style={{ fontWeight: "bolder", fontStyle: "normal", }}>
-              SEPI - ESIME - IPN <br /> 2023 - 2023
+              SEPI - ESIME - IPN <br /> 2023 - 2024
             </span>{" "} <br />
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Tech Knowledge
             </span>{" "}
-            <br /> <br /> Ansys, Finite Element Method
+            <br /> <br /> Ansys, Finite Element Method, CAE, Mechanisms design, Mechanical of materials
           </ListParagraph>
         </ListContainer>
       </ListItem>

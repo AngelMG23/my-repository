@@ -26,9 +26,9 @@ const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       My strongest skill in the Mechatronics field is the mechanical design by using software like SolidWorks, Unigraphics NX, CATIA V5 for CAD/CAM/CAE,
-      I really love it. However in topics like automation and manufacturing process I consider myself able to do it and be 
-      professional competitive. Additionally, in topics like programming I've programmed in different languages like Python, C/C++, Matlab/Simulink, 
-      LabView and I know a little of ROS and Java but I consider myself with an indiviual competitive level in this field. Finally, 
+      I really love them and I want to be an expert in this field. However in topics like automation and manufacturing process I consider myself able to do it and be 
+      professionally competitive. Additionally, in topics like programming, I've programmed in different languages like Python, C/C++, Matlab/Simulink, 
+      LabView and I know a little of ROS and Java; however, I consider myself with an indiviual competitive level in this field. Finally, 
       also I've worked with PIC's, Arduino, Raspberry, Cortex-M4 (Nucleo 64), FPGA for academic mechatronics projects, and
       I want to learn more about these by conducted personal projects.
     </SectionText>
@@ -65,12 +65,12 @@ const Technologies = () => (
           size="4rem"
         />
         <ListContainer>
-          <ListTitle>CAD/PLC</ListTitle>
+          <ListTitle>CAD/PLC/Process</ListTitle>
           <ListParagraph>
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Experience with
             </span>{" "}
-            <br /> <br /> Unigraphics Nx <br /> STEP7 MicroWIN <br /> PLC S7200 <br /> PCSimu
+            <br /> <br /> Unigraphics Nx <br /> STEP7 MicroWIN <br /> PLC S7200 <br /> PCSimu <br /> Manufacturing process <br /> Lean Six Sigma <br /> 8D
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -116,12 +116,12 @@ const Technologies = () => (
           size="4rem"
         />
         <ListContainer>
-          <ListTitle>Process</ListTitle>
+          <ListTitle>ANSYS</ListTitle>
           <ListParagraph>
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
-              Knowleadge in
+              Knowledge in
             </span>{" "}
-            <br /> <br /> Manufacturing process <br /> Lean Six Sigma
+            <br /> <br /> Statical Structural <br /> Workbench <br /> SpaceClaim <br /> FEA
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -138,7 +138,7 @@ const Technologies = () => (
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Experience with
             </span>{" "}
-            <br /> <br /> Python <br /> C/C++ <br /> Matlab  <br /> LabView <br /> ROS (a bit)
+            <br /> <br /> Python <br /> C/C++ <br /> Matlab/Simulink  <br /> LabView <br /> ROS 
           </ListParagraph>
         </ListContainer>
       </ListItem>
