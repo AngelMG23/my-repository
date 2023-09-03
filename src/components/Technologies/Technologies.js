@@ -1,8 +1,8 @@
 import React from "react";
 import { DiFirebase, DiReact, DiZend, DiNodejsSmall } from "react-icons/di";
 import { SiDassaultsystemes, SiSiemens, SiAutodesk } from "react-icons/si";
-import { SiAnsys } from "react-icons/si";
 import { FcElectronics } from "react-icons/fc";
+import { SiAnsys } from "react-icons/si";
 import { BsCodeSlash } from "react-icons/bs";
 import {
   Section,
