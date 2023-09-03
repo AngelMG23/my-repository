@@ -64,12 +64,12 @@ export const projects4 = [
 ];
 
 export const TimeLineData = [
-  { year: 1997, text: "Started my life" },
+  { year: 1997, text: "My life began" },
   {
     year: 2009,
-    text: "Started to know the technology",
+    text: "Started to know technology",
   },
   { year: 2012, text: "First mechatronics schoolar projects" },
   { year: 2016.2021, text: "Mechatronics became in my passion" },
-  { year: 2023, text: "Looking for professional experience" },
+  { year: 2023, text: "Start to be a competitive engineer in the CAD/CAE field" },
 ];

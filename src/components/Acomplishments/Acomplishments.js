@@ -16,15 +16,19 @@ const data = [
   { number: 2021, text: "I realized my thesis work to obtain the Mechatronics engineer degree" },
   {
     number: 2021,
-    text: "In December I finished my social service writing a research project at Centro de Desarrollo Aeroespacial IPN"
+    text: "In December I finished my social service by writing a research project at Centro de Desarrollo Aeroespacial CDA-IPN"
   },
   {
     number: 2022,
-    text: "Thesis work was presented at Noveno Congreso de Robótica y Computación (CIRC 2022)",
+    text: "Thesis degree was presented at noveno Congreso Internacional de Robótica y Computación (CIRC 2022)",
   },
   {
     number: 2023,
-    text: "I'm studying a specialisation postgraduate course in Mechanical engineering",
+    text: "I'm studying a specialization postgraduate in Mechanical engineering",
+  },
+  {
+    number: 2023,
+    text: "I started to work as Tester Jr. at Ford Motor Company thanks to Alten",
   }
 ];
 
