@@ -28,8 +28,8 @@ const data = [
   },
   {
     number: 2023,
-    text: "I started to work as Tester Jr. at Ford Motor Company thanks to Alten",
-  }
+    text: "Since may I've been working as Tester Jr. at Ford Motor Company thanks to Alten",
+  },
 ];
 
 const Acomplishments = () => (

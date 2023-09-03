@@ -122,7 +122,7 @@ const Technologies = () => (
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Knowledge in
             </span>{" "}
-            <br /> <br /> Statical Structural <br /> Workbench <br /> SpaceClaim <br /> FEA
+            <br /> <br /> Statical Structural <br /> Workbench <br /> SpaceClaim <br /> Finite Element Analysis
           </ListParagraph>
         </ListContainer>
       </ListItem>
