@@ -70,7 +70,8 @@ const Technologies = () => (
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Experience with
             </span>{" "}
-            <br /> <br /> Unigraphics Nx <br /> STEP7 MicroWIN <br /> PLC S7200 <br /> PCSimu <br /> Manufacturing process <br /> Lean Six Sigma <br /> 8D
+            <br /> <br /> Unigraphics Nx <br /> STEP7 MicroWIN <br /> PLC S7200 <br /> PCSimu <br /> Manufacturing process <br />{" "} 
+            Lean Six Sigma <br /> 8D
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -138,7 +139,7 @@ const Technologies = () => (
             <span style={{ fontWeight: "bolder", fontStyle: "italic" }}>
               Experience with
             </span>{" "}
-            <br /> <br /> Python <br /> C/C++ <br /> Matlab/Simulink  <br /> LabView <br /> ROS 
+            <br /> <br /> Python <br /> C/C++ <br /> Matlab/Simulink  <br /> LabView <br /> ROS
           </ListParagraph>
         </ListContainer>
       </ListItem>
